@@ -13,15 +13,15 @@ I specialize in backend development and cloud infrastructure:
 
 ## 🌟 Notable Projects
 Here are some key projects I’ve worked on:
-- **[Logistics Solutions](#)**: Developed analytical reports to track and analyze business trends, optimizing logistical operations.  
+- **[Logistics Solutions]**: Developed analytical reports to track and analyze business trends, optimizing logistical operations.  
    **Technologies**: Python, AWS, SQL, Power BI.
-- **[Online Job Portal](#)**: Designed and developed an online platform for job listings, including search functionality and profile management.  
+- **[Online Job Portal]**: Designed and developed an online platform for job listings, including search functionality and profile management.  
    **Technologies**: ReactJS, NodeJS, Express, MongoDB.
-- **[ERP System (iS4)](#)**: Enterprise Resource Planning system to manage business operations such as inventory, sales, and finance.  
+- **[ERP System (iS4)]**: Enterprise Resource Planning system to manage business operations such as inventory, sales, and finance.  
    **Technologies**: ReactJS, NodeJS, SQL Server, MongoDB, ExpressJS.
-- **[Nursery Decor](#)**: E-commerce platform for selling nursery products, with features like product management and order tracking.  
+- **[Nursery Decor]**: E-commerce platform for selling nursery products, with features like product management and order tracking.  
    **Technologies**: ReactJS, NodeJS, Express, MongoDB, Stripe API.
-- **[Ultimate Inventory Management System](#)**: Inventory management system for tracking and managing products, sales, and stock levels.  
+- **[Ultimate Inventory Management System]**: Inventory management system for tracking and managing products, sales, and stock levels.  
    **Technologies**: PHP, MySQL, Laravel.
 
 ## 🚀 Technologies & Tools
