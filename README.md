@@ -1,15 +1,22 @@
-# Hi, I'm Muddassir Aslam 👋
+# Hi, I'm Muddassir Aslam 👋  
 
-I'm a **Full Stack Developer** specializing in **MERN Stack**, **Cloud Solutions**, and **DevOps practices**.  
-I’m passionate about building **scalable**, **secure**, and **user-centric applications**, and I’ve delivered real-world solutions like **ERP systems**, **CRM platforms**, and **mobile applications**.
+I’m a **Full Stack Developer** specializing in **React.js, Next.js, and scalable APIs**.  
+I love turning **designs into fast, responsive, and user-friendly web apps**, and have delivered real-world solutions across SaaS, marketing platforms, and enterprise systems.  
 
-## Backend Focused 🌐
-I specialize in backend development and cloud infrastructure:
-- **Secure API Development** 🔒
-- **Scaling Microservices Systems** 🛠️
-- **AWS & Azure Cloud Infrastructure** ☁️
-- **Containerization with Docker & Kubernetes** 🐳
-- **Load Balancing (Nginx) for High-Traffic Apps** 🚀
+---
+
+## 🚀 Frontend Focus
+- **Modern Frontend Development**: React.js, Next.js, TypeScript, TailwindCSS.  
+- **UI/UX Collaboration**: Clean developer handoff from Figma → production-ready code.  
+- **Performance Optimization**: SSR, code-splitting, SEO-friendly pages.  
+- **API Integrations**: REST/GraphQL, authentication, 3rd-party social APIs.  
+
+## ⚙️ Backend & Infra (Supportive Skills)
+- Secure API Development (Node.js, NestJS, Express).  
+- Cloud & Infrastructure: AWS, Azure, Docker, Kubernetes.  
+- Scalable Systems: Microservices, load balancing, CI/CD pipelines.  
+
+---
 
 ## 🌟 Notable Projects
 Here are some key projects I’ve worked on:
